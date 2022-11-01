@@ -1,0 +1,5 @@
+modules :
+
+pyttsx3 (sapi5)
+SpeechRecognition
+PyAudio
